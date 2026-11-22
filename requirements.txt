@@ -1,7 +1,7 @@
-fastapi
-uvicorn[standard]
-pymongo
-pydantic
-firebase-admin
+fastapi==0.109.0
+uvicorn[standard]==0.25.0
+pymongo==4.6.1
+pydantic==2.5.3
+firebase-admin==7.4.0
 requests==2.34.2
-python-dotenv
+python-dotenv==1.0.0
